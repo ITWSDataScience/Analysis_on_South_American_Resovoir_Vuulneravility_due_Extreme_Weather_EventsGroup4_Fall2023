@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import json
 from statistics import mean 
 import numpy as np
-directory = 'C:/Users/lenysm/Desktop/wata/Precipitation Datasets'
+directory = ''
  
 # print("what is goin on")
 
