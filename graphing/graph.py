@@ -6,8 +6,6 @@ from statistics import mean
 import numpy as np
 directory = ''
  
-# print("what is goin on")
-
 # reserviors = ["Guri","Sobradinho","Tucurui","Aperea","ILha Solteira","Furnas","Serra De Masa","Tres Marias","Negro","Chocon","Itaparica",
 #              "Sao Simao", "Grande", "Promissao", "Agua Vermelha", "Lago Del Rio Yguaza", "Los Barreales", "Barra Bonita", "Lago Das Brisas",
 #              "Hondo", "Junin"]
@@ -40,7 +38,7 @@ for filename in os.listdir(directory):
 
 # fig = plt.figure(figsize = (10, 5))
  
-directory2 = 'C:/Users/lenysm/Desktop/wata/Reservoir Dataset/reservoir.json'
+directory2 = ''
 file = open(directory2)
 data = json.load(file)
 
