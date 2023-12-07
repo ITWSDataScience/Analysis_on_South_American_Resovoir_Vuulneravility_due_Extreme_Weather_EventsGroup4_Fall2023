@@ -16,8 +16,8 @@
 
 8. Pereira Filho, A. J., Carbone, R. E., Janowiak, J. E., Arkin, P., Joyce, R., Hallak, R., & Ramos, C. G. M. (2010, April). Satellite rainfall estimates over South America – possible ... SATELLITE RAINFALL ESTIMATES OVER SOUTH AMERICA – POSSIBLE APPLICABILITY TO THE WATER MANAGEMENT OF LARGE WATERSHEDS. https://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.2009.00406.x 
 
-9. https://lpdaac.usgs.gov/products/mod28c3v061/
+9. Gao, H. (2021). MODIS/Terra Water Reservoir Monthly L3 Global V061 [Data set]. NASA EOSDIS Land Processes Distributed Active Archive Center. Accessed 2023-11-09 from https://doi.org/10.5067/MODIS/MOD28C3.061
 
-10. https://power.larc.nasa.gov/beta/data-access-viewer/
+10. NASA POWER: https://power.larc.nasa.gov/beta/data-access-viewer/
 
-11. https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-adjusted-to-2015-unwpp-country-totals-rev11
+11. Center for International Earth Science Information Network - CIESIN - Columbia University. 2018. Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision UN WPP Country Totals, Revision 11. Palisades, New York: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4F47M65. Accessed  09-11-2023.
