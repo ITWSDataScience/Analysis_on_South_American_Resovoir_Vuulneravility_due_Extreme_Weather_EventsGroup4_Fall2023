@@ -15,3 +15,9 @@
 7. Tundisi, J. G., & Matsumura-Tundisi, T. (2010, July 21). Reservoir management in South America - Taylor & Francis Online. Reservoir Management in South America. https://www.tandfonline.com/doi/abs/10.1080/07900629849367 
 
 8. Pereira Filho, A. J., Carbone, R. E., Janowiak, J. E., Arkin, P., Joyce, R., Hallak, R., & Ramos, C. G. M. (2010, April). Satellite rainfall estimates over South America – possible ... SATELLITE RAINFALL ESTIMATES OVER SOUTH AMERICA – POSSIBLE APPLICABILITY TO THE WATER MANAGEMENT OF LARGE WATERSHEDS. https://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.2009.00406.x 
+
+9. https://lpdaac.usgs.gov/products/mod28c3v061/
+
+10. https://power.larc.nasa.gov/beta/data-access-viewer/
+
+11. https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-adjusted-to-2015-unwpp-country-totals-rev11
